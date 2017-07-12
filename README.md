@@ -1,2 +1,2 @@
 # MyBZOJCode
-Pascal
+衡阳八中OJ（耒阳大视野）的部分题目Pascal代码，没有写题解……
